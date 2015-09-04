@@ -30,7 +30,7 @@ $(document).ready(function(){
 
 
 	DocHeight=$(document).height();
-	$(".main-menu-all").css({height:DocHeight});
+	$(".main-menu-all,.login-pop-up-form").css({height:DocHeight});
 
 	$('a[href*=#]:not([href=#])').click(function(){
 		if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
