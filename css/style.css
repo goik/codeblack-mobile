@@ -1,4 +1,4 @@
-.actor-position-main-title:after,.actor-slide-list:after,.persona-section:after,.persona-section-row:after,.show-more-link:after,.synopsis-section-descr:after,,.synopsis-section:after,,.synopsis-section-title:after,,.synopsis-section-title-txt:after,.social-icon-btn-cell-pad:after,.social-icon-btn-cell:after,.movie-other-btn-cell:after,.movie-other-btn-cell-pad:after,.movie-play-btn-cell:after,.rating-place:after,.film-title:after,.film-title-txt:after,.film-inner:after,.film-inner-pad:after,.e404-sub-title:after,.e404-sub-title-txt:after,.e404-title:after,.e404-title-txt:after,.e404:after,.e404-PAD:after,.cb-descr:after,.page-main-title:after,.page-main-title-txt:after,.COUNTRY-BLOCK:after,.COUNTRY-BLOCK-PAGE-PAD:after,.genre-menu-cell:after,.genre-menu-cell-pad:after,.GENRE-INNER-PAGE:after,.GENRE-INNER-PAGE-PAD:after,.movie-item-padm:after,.movie-article:after,.movie-cover-figure:after,.movie-list:after,.movie-item-pad:after,.movie-list-cell:after,.search-result-title:after,.search-result-title-txt:after,.search-result-title-place-pad:after,.search-result-title-place:after,.search-result-page-header:after,.search-result-page-header-pad:after,.SEARCH-RESULT-PAGE:after,.SEARCH-RESULT-PAGE-PAD:after,.genre-item:after,.nav-cell:after,.nav-cell-pad:after,.genre-nav:after,.genre-nav-ul:after,.nav-cell:after,.search-cell:after,.search-cell-pad:after,.main-menu-search-spacer:after,.main-menu:after,.main-menu-pad:after,.carousel-list:after,.carousel-scroll-cell:after,.carousel-scroll-cell-pad:after,.film-carousel:after,.carou-place:after,.carousel-cell:after,.HOME-PAGE-PAD:after,.HOME-PAGE:after,.main-container:after,.main-footer-pad:after,.copy-txt:after,.footer-link-cell:after,.main-footer:after,.main-footer-pad:after,.text-height:after,.wrapper:after,.main-header-fix:after{content:"";display:block;clear:both;font-size:0;text-decoration:none;visibility:hidden;text-indent:-999999px}
+.actor-image-place:after,.main-actor-title:after,.main-actor-title-txt:after,.ACTOR-BIO:after,.ACTOR-PAGE:after,.ACTOR-PAGE-PAD:after,.actor-position-main-title:after,.actor-slide-list:after,.persona-section:after,.persona-section-row:after,.show-more-link:after,.synopsis-section-descr:after,,.synopsis-section:after,,.synopsis-section-title:after,,.synopsis-section-title-txt:after,.social-icon-btn-cell-pad:after,.social-icon-btn-cell:after,.movie-other-btn-cell:after,.movie-other-btn-cell-pad:after,.movie-play-btn-cell:after,.rating-place:after,.film-title:after,.film-title-txt:after,.film-inner:after,.film-inner-pad:after,.e404-sub-title:after,.e404-sub-title-txt:after,.e404-title:after,.e404-title-txt:after,.e404:after,.e404-PAD:after,.cb-descr:after,.page-main-title:after,.page-main-title-txt:after,.COUNTRY-BLOCK:after,.COUNTRY-BLOCK-PAGE-PAD:after,.genre-menu-cell:after,.genre-menu-cell-pad:after,.GENRE-INNER-PAGE:after,.GENRE-INNER-PAGE-PAD:after,.movie-item-padm:after,.movie-article:after,.movie-cover-figure:after,.movie-list:after,.movie-item-pad:after,.movie-list-cell:after,.search-result-title:after,.search-result-title-txt:after,.search-result-title-place-pad:after,.search-result-title-place:after,.search-result-page-header:after,.search-result-page-header-pad:after,.SEARCH-RESULT-PAGE:after,.SEARCH-RESULT-PAGE-PAD:after,.genre-item:after,.nav-cell:after,.nav-cell-pad:after,.genre-nav:after,.genre-nav-ul:after,.nav-cell:after,.search-cell:after,.search-cell-pad:after,.main-menu-search-spacer:after,.main-menu:after,.main-menu-pad:after,.carousel-list:after,.carousel-scroll-cell:after,.carousel-scroll-cell-pad:after,.film-carousel:after,.carou-place:after,.carousel-cell:after,.HOME-PAGE-PAD:after,.HOME-PAGE:after,.main-container:after,.main-footer-pad:after,.copy-txt:after,.footer-link-cell:after,.main-footer:after,.main-footer-pad:after,.text-height:after,.wrapper:after,.main-header-fix:after{content:"";display:block;clear:both;font-size:0;text-decoration:none;visibility:hidden;text-indent:-999999px}
 *{vertical-align:top!important}
 .movie-play-btn-txt,.movie-play-icon-svg,.fa,.persona-section a,.show-more-link,.actor-slide-place,.def-btn,.movie-play-btn,.rating-item-link-svg,.e404-descr a,.submit-btn-icon,.submit-btn-icon-svg,.genre-item-link,.empty-btn,.empty-btn-txt,.close-menu-btn,.close-menu-btn-svg,.go-to-top-link,.go-to-top-link-arrow,.film-title-link,.main-title-txt,.main-footer-pad a,.logo{transition:all 0.3s ease-in-out;-webkit-transition:all 0.3s ease-in-out;-khtml-transition:all 0.3s ease-in-out;-moz-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;-ms-transition:all 0.3s ease-in-out;-icab-transition:all 0.3s ease-in-out}
 ::-moz-selection{background:#7e6a30;color:#000}
@@ -8,7 +8,7 @@ h1,h2,h3,h4,h5,h6{font-weight:400;font-family:ProximaNova-Semibold,sans-serif}
 body,html{height:100%;height:100%;margin:0;padding:0;height:100%;font-size:0;cursor:default;border:0;text-align:center;background-color:#161315;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:ProximaNova-Regular,sans-serif}
 *,*:after,*:before {box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-webkit-box-sizing:border-box;-o-box-sizing:border-box}
 .wrapper{clear:both;position:relative;top:0;left:0;min-height:100%;height:auto!important;height:100%;margin:0 auto;
-/* background:url(../img/trafarets/6.png) no-repeat center top */
+/* background:url(../img/trafarets/7.png) no-repeat center top */
 }
 .text-height{clear: both;/*min-height:1127px;height:auto!important;height:1127px*/}
 .main-header{position:relative;top:0;left:0;min-height:50px;height:auto!important;height:50px;background:#040404;z-index:10}
@@ -23,7 +23,7 @@ body,html{height:100%;height:100%;margin:0;padding:0;height:100%;font-size:0;cur
 .menu-btn{position:absolute;top:18px;left:0;z-index:10}
 .main-footer{background:#000000;margin:-67px auto 0 auto}
 .main-footer,.footer-spacer{min-height:67px;height:auto!important;height:67px;position:relative;left:0;top:0}
-.main-footer,.wrapper{max-width:414px;min-width:320px}
+.main-footer,.wrapper{max-width:320px;min-width:320px}
 .main-footer-pad{color:#515050;font-size:13px;font-family:"ProximaNova-Light",sans-serif;padding:11px 5px 15px 10px;text-align:left}
 .main-footer-pad a{color:#7e6a30;text-decoration:none}
 .main-footer-pad a:hover{color:#fff}
@@ -263,7 +263,6 @@ a{cursor:pointer}
 .social-btn-cell:hover .fa.fa-twitter{color:#7e6a30}
 
 
-
 .custom-db{display:block;width:100%}
 .fx-s{display:inline-block;width:130px}
 .l-r-pad{padding-left:20px;padding-right:30px}
@@ -275,4 +274,18 @@ a{cursor:pointer}
 .fill-btn:hover{border:1px solid #fff}
 
 
+.ACTOR-PAGE,.ACTOR-PAGE-PAD{clear:both;display:block}
+.ACTOR-PAGE{min-height:200px;height:auto!important;height:200px}
+.ACTOR-BIO{width:100%;min-height:15px;height:auto!important;height:15px;clear:both;display:block}
+.ACTOR-PAGE-PAD{padding-left:17px;text-align:left;padding-top:13px}
+.ACTOR-PAGE-PAD .go-to-top-link{left:-8px}
+.main-actor-title,.main-actor-title-txt{clear:both;display:block}
+.main-actor-title{color:#fff;font-size:18px;font-family:ProximaNova-Semibold,sans-serif;padding-left:9px}
 
+.actor-image-place-out-box{display:block;width:183px}
+.actor-bio-image{display:block;width:100%;height:auto!important}
+.actor-image-place{display:block;padding-top:7px;padding-left:9px}
+.new-out-pad{padding-left:10px;padding-top:15px}
+
+.ACTOR-BIO .social-icon-btn-cell{padding-bottom:0;min-height:60px;height:auto!important;height:60px}
+.ACTOR-BIO .social-icon-btn-cell-pad{padding-left:23px}
