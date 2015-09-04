@@ -294,7 +294,7 @@ background:/*url(../img/trafarets/10.png) no-repeat center top */ #161315
 .login-main-title{display:block;color:#fff;font-size:16px;font-family:ProximaNova-Semibold,sans-serif;text-align:center;line-height:18px}
 
 .inp-field-list{clear:both;display:block}
-.inp-field-bg{background:#1b181a;border:solid #343434 1px;margin-top:-1px;min-height:40px;height:auto!important;height:40px;opacity:0.5}
+.inp-field-bg{background:#1b181a;border:solid #343434 1px;margin-top:-1px;min-height:40px;height:auto!important;height:40px}
 .inp-field-bg:first-child{border-radius:6px 6px 0 0;-o-border-radius:6px 6px 0 0;-khtml-border-radius:6px 6px 0 0;-icab-border-radius:6px 6px 0 0;-moz-border-radius:6px 6px 0 0;-webkit-border-radius:6px 6px 0 0;-ms-border-radius:6px 6px 0 0}
 .inp-field-bg:last-child{border-radius:0 0 6px 6px;-o-border-radius:0 0 6px 6px;-khtml-border-radius:0 0 6px 6px;-icab-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;-webkit-border-radius:0 0 6px 6px;-ms-border-radius:0 0 6px 6px}
 .inp-field-list-cell{padding-top:19px}
@@ -320,3 +320,4 @@ background:/*url(../img/trafarets/10.png) no-repeat center top */ #161315
 .log-btn:hover{background:#7e6a30;border:solid #7e6a30 1px;color:#fff}
 .h-spacer{min-height:12px;height:auto!important;height:12px}
 .movie-play-btn-txt{left:0}
+.center-p{margin:0!important}
