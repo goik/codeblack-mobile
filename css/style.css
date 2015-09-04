@@ -69,7 +69,7 @@ body,html{height:100%;height:100%;margin:0;padding:0;height:100%;font-size:0;cur
 .go-to-top-link:hover .go-to-top-link-arrow{fill:#847347}
 .carousel-scroll-thumb:hover{background:#847347}
 .main-menu-all{display:block;width:0;height:100%;position:absolute;top:0;left:0;z-index:1000;overflow:hidden}
-.main-menu{display:block;width:294px;height:100%;position:absolute;top:0;left:0;background:#161315 /*url(../img/trafarets/menu.png) no-repeat center top*/;z-index:20}
+.main-menu{display:block;width:294px;height:100%;position:absolute;top:0;left:0;background:#161315;z-index:20}
 .main-menu-bg{position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.6);z-index:10}
 .main-menu,.main-menu-pad{clear:both;text-align:left}
 .close-menu-btn{display:block;width:14px;height:14px;position:absolute;right:10px;top:18px;cursor:pointer}
@@ -281,7 +281,7 @@ a{cursor:pointer}
 .ACTOR-BIO .social-icon-btn-cell{padding-bottom:0;min-height:60px;height:auto!important;height:60px}
 .ACTOR-BIO .social-icon-btn-cell-pad{padding-left:23px}
 .login-pop-up-form{display:block;width:100%;height:100%;position:absolute;top:0;left:0;background:black;z-index:10000;
-background:/*url(../img/trafarets/10.png) no-repeat center top */ #161315
+background: /*url(../img/trafarets/12.png) no-repeat center top */ #161315
 }
 .close-icon{display:block;width:14px;height:14px}
 .login-close-svg,.login-close{display:block;width:14px;height:14px}
@@ -321,3 +321,33 @@ background:/*url(../img/trafarets/10.png) no-repeat center top */ #161315
 .h-spacer{min-height:12px;height:auto!important;height:12px}
 .movie-play-btn-txt{left:0}
 .center-p{margin:0!important}
+
+.subsection,.subsection-txt{display:block;clear:both;text-align:left}
+.subsection-txt{color:#797979;font-size:13px;font-family:ProximaNova-Regular,sans-serif;padding-top:18px}
+
+
+
+.select-box-cells,.select-box-cells-1,.select-box-cells-2,.select-box-cells-3{min-height:40px;height:auto!important;height:40px}
+.select-box-cells{border:solid #343434 1px}
+.select-box-cells-1{float:left;width:92px}
+.select-box-cells-2{float:left;width:88px}
+.select-box-cells-3{float:left;width:92px}
+
+
+
+
+
+
+.select-box-cells{width:100%;border-radius:6px;-o-border-radius:6px;-khtml-border-radius:6px;-icab-border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;-ms-border-radius:6px}
+.select-box-cells-1{width:34.328358208955223880597014925373%}
+.select-box-cells-2{width:32.835820895522388059701492537313%;border-left:solid #343434 1px;border-right:solid #343434 1px}
+.select-box-cells-3{width:32.835820895522388059701492537314%}
+
+.subsection-txt{padding-bottom:7px}
+.spacer-x-4{min-height:12px;height:auto!important;height:12px}
+.spacer-x-5{min-height:16px;height:auto!important;height:16px}
+.lhx2{line-height:21px}
+.npx6{padding-top:44px}
+.nlhx8{line-height:21px}
+.default-select-box,.default-select-box option{color:#797979;font-size:13px;display:block;width:100%;padding:4px 10px;background:transparent}
+
