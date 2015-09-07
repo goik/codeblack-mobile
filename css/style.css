@@ -280,7 +280,11 @@ a{cursor:pointer}
 .new-out-pad{padding-left:10px;padding-top:15px}
 .ACTOR-BIO .social-icon-btn-cell{padding-bottom:0;min-height:60px;height:auto!important;height:60px}
 .ACTOR-BIO .social-icon-btn-cell-pad{padding-left:23px}
-.login-pop-up-form{display:block;width:100%;height:100%;position:absolute;top:0;left:0;z-index:10000;background:#161315}
+.login-pop-up-form{display:block;width:100%;height:100%;position:absolute;top:0;left:0;z-index:10000;
+
+background: url(../img/trafarets/16.png) no-repeat left top #161315
+
+}
 .close-icon{display:block;width:14px;height:14px}
 .login-close-svg,.login-close{display:block;width:14px;height:14px}
 .login-close-svg{fill:#7e6a30}
@@ -293,10 +297,11 @@ a{cursor:pointer}
 .login-main-title{display:block;color:#fff;font-size:16px;font-family:ProximaNova-Semibold,sans-serif;text-align:center;line-height:18px}
 
 .inp-field-list{clear:both;display:block}
-.inp-field-bg{background:#1b181a;border:solid #343434 1px;margin-top:-1px;min-height:40px;height:auto!important;height:40px}
+.inp-field-bg{background:#1b181a;border:solid #343434 1px;margin-top:-1px;min-height:40px;height:auto!important;height:40px;position:relative;top:0;left:0}
 .inp-field-bg:first-child{border-radius:6px 6px 0 0;-o-border-radius:6px 6px 0 0;-khtml-border-radius:6px 6px 0 0;-icab-border-radius:6px 6px 0 0;-moz-border-radius:6px 6px 0 0;-webkit-border-radius:6px 6px 0 0;-ms-border-radius:6px 6px 0 0}
 .inp-field-bg:last-child{border-radius:0 0 6px 6px;-o-border-radius:0 0 6px 6px;-khtml-border-radius:0 0 6px 6px;-icab-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;-webkit-border-radius:0 0 6px 6px;-ms-border-radius:0 0 6px 6px}
 .inp-field-list-cell{padding-top:19px}
+.new-pad-for-field{padding-top:18px}
 .inp-field-bg-pad{padding:0}
 .def-field{display:block;color:#797979;font-size:13px;padding:7px 15px 7px 17px;height:34px;width:100%;background:transparent}
 .link-cell,.link-cell-pad{clear:both;display:block;text-align:center}
@@ -304,7 +309,7 @@ a{cursor:pointer}
 .link-cell-pad{padding:20px 0 19px}
 .link-cell-pad a:hover{color:#fff}
 .login-btn-cell{display:block;clear:both}
-.log-btn{display:inline-block;min-height:34px;height:auto!important;height:34px;text-align:center;text-decoration:none;width:100%;font-family:ProximaNova-Regular,sans-serif;border:solid #434343 1px;border-radius:17px;-o-border-radius:17px;-khtml-border-radius:17px;-icab-border-radius:17px;-moz-border-radius:17px;-webkit-border-radius:17px;-ms-border-radius:17px}
+.log-btn{display:inline-block;min-height:34px;height:auto!important;height:34px;text-align:center;text-decoration:none;width:100%;font-family:ProximaNova-Regular,sans-serif;border:solid #282627 1px;border-radius:17px;-o-border-radius:17px;-khtml-border-radius:17px;-icab-border-radius:17px;-moz-border-radius:17px;-webkit-border-radius:17px;-ms-border-radius:17px}
 .log-descr{display:block;color:#797979;font-size:18px}
 .large-link-size{font-size:17px!important;word-spacing:2px!important;position:relative;top:0;left:1px}
 .new-log-txt-pad{padding-top:56px}
@@ -415,3 +420,14 @@ a{cursor:pointer}
 .history-sub-descr{padding-top:3px}
 .history-sub-descr{padding-bottom:12px}
 .history-title-txt{text-decoration:none;color:#cccccc}
+
+.select-box-menu,.select-box-menu option{background:#1b181a}
+.select-box-menu{height:32px}
+.select-box-bg{overflow:hidden}
+
+.inp-field-bg .select-box-menu,.inp-field-bg .select-box-menu option{color:#797979;font-family:ProximaNova-Regular,sans-serif}
+.def-field{font-family:ProximaNova-Regular,sans-serif;font-size:13px}
+.bd-space{min-height:97px}
+.n-pad-btn{padding-top:12px}
+.new-top-pad-x-15{padding-top:21px}
+.select-box-cells--pad{position:relative;top:0;left:0}
