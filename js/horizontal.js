@@ -9,6 +9,82 @@ jQuery(function($){
 
 	(function () {
 
+
+
+
+
+ $('.carousel-cell-pad').each(function() {
+		var $frame  =$(this);
+		var $slidee = $frame.children('ul');
+		var $wrap   = $frame.parent();
+		var custom_this=$('.carousel-cell-pad').parent().parent().parent();
+		 $frame.sly({
+			horizontal:1,
+			itemNav:'basic',
+			smart:1,
+			activateOn:'click',
+			mouseDragging:1,
+			touchDragging:1,
+			releaseSwing:1,
+			startAt:1,
+			scrollBar:$frame.parent().parent().parent().find('.carousel-scroll-track'),
+			scrollBy:1,
+			pagesBar:$wrap.find('.pages'),
+			activatePageOn:'click',
+			speed:1600,
+			elasticBounds:1,
+			easing:'easeOutExpo',
+			dragHandle:1,
+			dynamicHandle:1,
+			clickBar:1
+		 });
+});
+
+
+
+
+
+/*
+
+		var $frame  =$('.carousel-cell-pad');
+		var $slidee = $frame.children('ul');
+		var $wrap   = $frame.parent();
+		var custom_this=$('.carousel-cell-pad').parent().parent().parent();
+		$frame.sly({
+			horizontal:1,
+			itemNav:'basic',
+			smart:1,
+			activateOn:'click',
+			mouseDragging:1,
+			touchDragging:1,
+			releaseSwing:1,
+			startAt:1,
+			scrollBar:custom_this.find('.carousel-scroll-track'),
+			scrollBy:1,
+			pagesBar:$wrap.find('.pages'),
+			activatePageOn:'click',
+			speed:1600,
+			elasticBounds:1,
+			easing:'easeOutExpo',
+			dragHandle:1,
+			dynamicHandle:1,
+			clickBar:1,
+
+			forward:$wrap.find('.forward'),
+			backward:$wrap.find('.backward'),
+			prev:$wrap.find('.large-slider-prev'),
+			next:$wrap.find('.large-slider-next'),
+			prevPage:$wrap.find('.prevPage'),
+			nextPage:$wrap.find('.nextPage')
+		});
+
+		$(window).resize(function() {
+			$frame.sly("reload");
+		});
+		*/
+
+/*
+
 		var scrollSelector1=$('.carousel-cell-pad');
 
 		var $frame_1 = $('.slide-1');
@@ -122,7 +198,7 @@ jQuery(function($){
 		});
 
 
-
+*/
 
 /*
 		$wrap.find('.toStart').on('click', function () {
