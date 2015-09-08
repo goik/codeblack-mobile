@@ -478,4 +478,19 @@ a.custom-check-border{text-decoration:none;color:#797979;font-size:13px}
 .login-pop-up-new-pad  .arrow-down{position:absolute;right:5px;top:16px}
 
 body,html,.empty-btn,.search-input,.genre-item-link,.search-input-inner,.select-box-menu,.select-box-menu option,.e404-title,.e404-sub-title,.rating-title,.movie-play-btn-txt,.def-btn-txt,.numb-place,.synopsis-section-title,.synopsis-section-descr,.show-more-link,.actor-position-main-title-link,.reset-txt-descr,.log-btn,.log-btn,.user-name-title,.add-photo-btn,.user-profile-sub-title,.btn2,.inp-field-bg .select-box-menu,.inp-field-bg .select-box-menu option,.def-field,.checkbox-label-txt,.payment-sub-title,.radio-label-txt{font-family:ProximaNova-Regular,sans-serif}
+.nhx10{min-height:0;height:auto!important;height:0px}
 
+
+
+
+.main-menu .image-crop-cell,
+.main-menu .user-avatar,
+.main-menu .user-avatar img{width:50px;height:50px}
+
+
+.main-menu .empty-avatar-svg-cell{left:13px;position:absolute;top:15px}
+
+
+.main-menu .empty-avatar-svg-cell, .main-menu .empty-avatar-svg{display:block;height:40px;width:25px}
+.main-menu .person-block-left{width:34%}
+.main-menu .person-block-right{width:65%}
