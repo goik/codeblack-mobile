@@ -169,7 +169,7 @@ jQuery(function($){
 		});
 
 
-
+*/
 		var scrollSelector3=$('.actor-slide');
 
 		var $frame_3 = $('.actor-slide');
@@ -197,8 +197,8 @@ jQuery(function($){
 			clickBar:1
 		});
 
+ 
 
-*/
 
 /*
 		$wrap.find('.toStart').on('click', function () {
